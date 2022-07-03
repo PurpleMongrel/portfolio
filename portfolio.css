@@ -1,3 +1,7 @@
+html {
+	scroll-behavior: smooth;
+}
+
 body {
 	color: black;
 	/*   font-family: 'EB Garamond', serif; */
@@ -70,7 +74,7 @@ body {
 .welcome-section {
 	background-color: #0A1026;
 	margin: 100px auto 40px auto;
-	height: 40vh;
+	height: 30vh;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
