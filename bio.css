@@ -22,4 +22,15 @@ body {
 		0 0 26px #09b37a,
 		0 0 21px #09b37a,
 		0 0 35px #09b37a;
+		font-family: TT-E;
+}
+
+@font-face{
+  font-family: "TT-E";
+  src: url("./fonts/TT2020StyleE-Regular.ttf") format("truetype");
+}
+
+@font-face{
+  font-family: "TT-G";
+  src: url("./fonts/TT2020StyleG-Regular.ttf") format("truetype");
 }
